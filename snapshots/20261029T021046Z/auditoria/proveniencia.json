@@ -1,0 +1,10 @@
+{
+  "snapshot_id": "20261029T021046Z",
+  "prepared_at_utc": "2026-10-29T02:10:47.161473+00:00",
+  "database_source": "Google WhatsApp backup decrypted locally",
+  "database_sha256": "9381276f572dbb7a8803bcb4f04d81b525c57a14cc5c5a0d21c3cbaf36f36ae0",
+  "encrypted_database_sha256": "a71697a84b615c492b6649c93605cb306fe1f69fa1bcaeb940c04123fbdf2dea",
+  "media_integrity": "Every original SHA-256 verified against its message_media.file_hash; read back after copying",
+  "original_input_sha256": "3beb14d0eba3a5fd79f10f66e55932ba8a9c8d36ff1ca32a2153c656a6f1eae9",
+  "private_inputs_uploaded": false
+}

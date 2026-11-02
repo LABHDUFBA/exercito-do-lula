@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "target_channel_jid": "120363408763985992@newsletter",
+  "merge_state": "pending_prior_dataset",
+  "prior_collection_path": null,
+  "mode": "non_destructive_union_with_conflict_review",
+  "preferred_candidate_key": [
+    "channel_jid",
+    "server_message_id"
+  ],
+  "secondary_candidate_key": [
+    "channel_jid",
+    "key_id"
+  ],
+  "cross_source_mapping_requires_overlap_validation": true,
+  "local_message_id_scope": "snapshot_only_not_global",
+  "preserve_unmatched_previous_records": true,
+  "automatic_fuzzy_merge": false,
+  "preserve_text_versions_and_provenance": true,
+  "timestamps": {
+    "timestamp": "Unix milliseconds from source",
+    "timestamp_utc": "ISO 8601 UTC"
+  },
+  "media_dedupe": "SHA-256 bytes; retain all message-to-file links",
+  "rerun_requirement": "idempotent",
+  "expected_outputs": [
+    "merged_posts.jsonl",
+    "merge_report.json",
+    "conflicts.jsonl",
+    "unmatched_previous.jsonl",
+    "unmatched_snapshot.jsonl"
+  ],
+  "required_checks": [
+    "exact target channel selection",
+    "inspect prior schema and ID types",
+    "validate candidate ID mapping using overlapping posts",
+    "compare counts before and after",
+    "verify all referenced media hashes",
+    "second run yields no new duplicates"
+  ]
+}
