@@ -100,7 +100,7 @@ El informe técnico-científico completo está disponible en [`relatorios/`](rel
   year = {2026},
   institution = {LABHDUFBA — Laboratorio de Humanidades Digitales, Universidad Federal de Bahía},
   address = {Salvador},
-  url = {https://github.com/LABHDUFBA/whatsapp-2turno-2026}
+  url = {https://github.com/LABHDUFBA/exercito-do-lula}
 }
 ```
 

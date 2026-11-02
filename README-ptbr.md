@@ -101,7 +101,7 @@ O relatório técnico-científico completo está em [`relatorios/`](relatorios/)
   year = {2026},
   institution = {LABHDUFBA — Laborat{\'o}rio de Humanidades Digitais, Universidade Federal da Bahia},
   address = {Salvador},
-  url = {https://github.com/LABHDUFBA/whatsapp-2turno-2026}
+  url = {https://github.com/LABHDUFBA/exercito-do-lula}
 }
 ```
 

@@ -100,7 +100,7 @@ The full technical-scientific report is available under [`relatorios/`](relatori
   year = {2026},
   institution = {LABHDUFBA — Digital Humanities Laboratory, Federal University of Bahia},
   address = {Salvador},
-  url = {https://github.com/LABHDUFBA/whatsapp-2turno-2026}
+  url = {https://github.com/LABHDUFBA/exercito-do-lula}
 }
 ```
 
