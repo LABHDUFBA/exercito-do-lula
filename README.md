@@ -11,7 +11,7 @@ Dados e materiais do relatório técnico-científico **"Ativismo digital, coorde
 ```bibtex
 @techreport{nascimento2026exercito,
   title = {Ativismo digital, coordenação de engajamento e imaginários algorítmicos no canal de WhatsApp EXÉRCITO DO LULA},
-  author = {Nascimento, Leonardo and Brasil, Eric and Sodr{\'e} Andrade, Ricardo and Cesarino, Let{\'i}cia and Kalil, Isabela and Belas, L{\'i}dia},
+  author = {Nascimento, Leonardo and Brasil, Eric and Sodr{\'e} Andrade, Ricardo and Cesarino, Let{\'i}cia and Kalil, Isabela and Barreto, Tarssio and Belas, L{\'i}dia},
   year = {2026},
   institution = {LABHDUFBA — Universidade Federal da Bahia},
   address = {Salvador},
