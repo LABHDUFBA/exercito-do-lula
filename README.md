@@ -2,6 +2,10 @@
 
 Dados e materiais do relatório técnico-científico **"Ativismo digital, coordenação de engajamento e imaginários algorítmicos no canal de WhatsApp EXÉRCITO DO LULA"** — [LABHDUFBA](https://labhdufba.github.io/) · Laboratório de Humanidades Digitais · UFBA.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23883859.svg)](https://zenodo.org/records/23883859)
+
+**DOI:** [10.5281/zenodo.23883859](https://zenodo.org/records/23883859) — arquivamento com DOI no Zenodo (record completo com dados + relatórios).
+
 ## 🌍 Idiomas · Languages · Langues · Idiomas
 
 **[🇧🇷 Português](#-português-brasil)** · **[🇬🇧 English](#-english)** · **[🇫🇷 Français](#-français)** · **[🇪🇸 Español](#-español)**
@@ -15,7 +19,8 @@ Dados e materiais do relatório técnico-científico **"Ativismo digital, coorde
   year = {2026},
   institution = {LABHDUFBA — Universidade Federal da Bahia},
   address = {Salvador},
-  url = {https://github.com/LABHDUFBA/exercito-do-lula}
+  doi = {10.5281/zenodo.23883859},
+  url = {https://zenodo.org/records/23883859}
 }
 ```
 
