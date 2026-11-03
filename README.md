@@ -6,6 +6,17 @@ Dados e materiais do relatório técnico-científico **"Ativismo digital, coorde
 
 **DOI:** [10.5281/zenodo.23883859](https://zenodo.org/records/23883859) — arquivamento com DOI no Zenodo (record completo com dados + relatórios).
 
+## 📄 Baixe o relatório em PDF · Download the PDF report
+
+| Idioma | Link direto (GitHub) | Link direto (Zenodo) |
+|---|---|---|
+| 🇧🇷 Português | [exercito_lula_relatorio_ptbr.pdf](relatorios/exercito_lula_relatorio_ptbr.pdf) | [baixar no Zenodo](https://zenodo.org/records/23890548/files/relatorios/exercito_lula_relatorio_ptbr.pdf) |
+| 🇬🇧 English | [exercito_lula_report_en.pdf](relatorios/exercito_lula_report_en.pdf) | [baixar no Zenodo](https://zenodo.org/records/23890548/files/relatorios/exercito_lula_report_en.pdf) |
+| 🇪🇸 Español | [exercito_lula_informe_es.pdf](relatorios/exercito_lula_informe_es.pdf) | [baixar no Zenodo](https://zenodo.org/records/23890548/files/relatorios/exercito_lula_informe_es.pdf) |
+| 🇫🇷 Français | [exercito_lula_rapport_fr.pdf](relatorios/exercito_lula_rapport_fr.pdf) | [baixar no Zenodo](https://zenodo.org/records/23890548/files/relatorios/exercito_lula_rapport_fr.pdf) |
+
+➡️ **Leia online sem baixar:** [relatório em português no GitHub](https://github.com/LABHDUFBA/exercito-do-lula/blob/main/relatorios/exercito_lula_relatorio_ptbr.pdf)
+
 ## 🌍 Idiomas · Languages · Langues · Idiomas
 
 **[🇧🇷 Português](#-português-brasil)** · **[🇬🇧 English](#-english)** · **[🇫🇷 Français](#-français)** · **[🇪🇸 Español](#-español)**
@@ -30,6 +41,8 @@ Dados e materiais do relatório técnico-científico **"Ativismo digital, coorde
 
 Corpus completo da janela **5–25/10/2026** do canal público de WhatsApp **EXÉRCITO DO LULA**: **1.278 posts** capturados, dos quais **1.018 unidades** foram integralmente codificadas (tipologia de funções de coordenação), com validação por dupla codificação às cegas (105 unidades; κ=0,577). Metodologia completa, episódios E1–E11 e resultados estão nos PDFs em [`relatorios/`](relatorios/).
 
+**📥 Baixe agora (PDF):** [Relatório em português](relatorios/exercito_lula_relatorio_ptbr.pdf) · [Report in English](relatorios/exercito_lula_report_en.pdf) · [Informe en español](relatorios/exercito_lula_informe_es.pdf) · [Rapport en français](relatorios/exercito_lula_rapport_fr.pdf)
+
 > **Novidade (v1.1, 02/11/2026):** os quatro relatórios ganham a **Figura 5** — posts por dia × inscritos reportados pela imprensa × encaminhamentos atribuídos ao dia do post (`forwards_count`, cumulativo no snapshot) — que mostra os picos de circulação de 20/10 (4,39 mi; 2,41 mi no post do link de inscrição do fechamento) e 23/10 (2,19 mi; 1,89 mi nas três variantes de "estão querendo derrubar o canal"), coincidindo com os episódios de fechamento ritual e ameaça. O tratamento metodológico de `forwards_count` foi revisado nos quatro idiomas: indicador descritivo de circulação atribuída, não medida de ritmo diário ou alcance.
 
 **Estrutura:** `exercito_lula_dados_textuais_completos.csv` — codificação integral tabular · `snapshots/20261029T021046Z/` — base completa do canal (`dados/mensagens.jsonl`, 1.382 registros), 232 mídias originais (`midias/originais/`), 114 miniaturas e auditoria de proveniência · `relatorios/` — relatório em 4 idiomas (PDF).
@@ -44,6 +57,8 @@ Corpus completo da janela **5–25/10/2026** do canal público de WhatsApp **EX�
 
 Complete corpus of the **Oct 5–25, 2026** window of the public WhatsApp channel **EXÉRCITO DO LULA**: **1,278 posts** captured, of which **1,018 units** were fully coded (typology of coordination functions), validated by blind double coding (105 units; κ=0.577). Full methodology, empirical episodes E1–E11 and results are in the PDFs under [`relatorios/`](relatorios/).
 
+**📥 Download now (PDF):** [Report in English](relatorios/exercito_lula_report_en.pdf) · [Relatório em português](relatorios/exercito_lula_relatorio_ptbr.pdf) · [Informe en español](relatorios/exercito_lula_informe_es.pdf) · [Rapport en français](relatorios/exercito_lula_rapport_fr.pdf)
+
 **Structure:** `exercito_lula_dados_textuais_completos.csv` — tabular integral coding · `snapshots/20261029T021046Z/` — full channel database (`dados/mensagens.jsonl`, 1,382 records), 232 original media files (`midias/originais/`), 114 thumbnails and provenance audit · `relatorios/` — report in 4 languages (PDF).
 
 **Dictionary (`mensagens.jsonl`):** `local_message_id` (internal id) · `timestamp_utc` (ISO 8601 date/time) · `message_type` (0=text, 1=image, 2=audio, 3=video, 15=sticker) · `text_data` (text/caption) · `view_count`, `comments_count`, `forwards_count` (snapshot counters — **descriptive attributes, not reach measures**) · `media` (media hash and file).
@@ -56,6 +71,8 @@ Complete corpus of the **Oct 5–25, 2026** window of the public WhatsApp channe
 
 Corpus complet de la fenêtre du **5–25 oct. 2026** du canal WhatsApp public **EXÉRCITO DO LULA** : **1 278 publications** capturées, dont **1 018 unités** intégralement codées (typologie des fonctions de coordination), validées par double codage à l'aveugle (105 unités ; κ=0,577). Méthodologie complète, épisodes empiriques E1–E11 et résultats dans les PDF sous [`relatorios/`](relatorios/).
 
+**📥 Télécharger (PDF) :** [Rapport en français](relatorios/exercito_lula_rapport_fr.pdf) · [Relatório em português](relatorios/exercito_lula_relatorio_ptbr.pdf) · [Report in English](relatorios/exercito_lula_report_en.pdf) · [Informe en español](relatorios/exercito_lula_informe_es.pdf)
+
 **Structure :** `exercito_lula_dados_textuais_completos.csv` — codage intégral tabulaire · `snapshots/20261029T021046Z/` — base complète du canal (`dados/mensagens.jsonl`, 1 382 enregistrements), 232 médias originaux (`midias/originais/`), 114 vignettes et audit de provenance · `relatorios/` — rapport en 4 langues (PDF).
 
 **Dictionnaire (`mensagens.jsonl`) :** `local_message_id` (id interne) · `timestamp_utc` (date/heure ISO 8601) · `message_type` (0=texte, 1=image, 2=audio, 3=vidéo, 15=autocollant) · `text_data` (texte/légende) · `view_count`, `comments_count`, `forwards_count` (compteurs de l'instantané — **attributs descriptifs, pas des mesures de portée**) · `media` (hachage et fichier du média).
@@ -67,6 +84,8 @@ Corpus complet de la fenêtre du **5–25 oct. 2026** du canal WhatsApp public *
 ## 🇪🇸 Español
 
 Corpus completo de la ventana del **5–25/10/2026** del canal público de WhatsApp **EXÉRCITO DO LULA**: **1.278 publicaciones** capturadas, de las cuales **1.018 unidades** fueron íntegramente codificadas (tipología de funciones de coordinación), con validación por doble codificación a ciegas (105 unidades; κ=0,577). Metodología completa, episodios empíricos E1–E11 y resultados en los PDF en [`relatorios/`](relatorios/).
+
+**📥 Descargar (PDF):** [Informe en español](relatorios/exercito_lula_informe_es.pdf) · [Relatório em português](relatorios/exercito_lula_relatorio_ptbr.pdf) · [Report in English](relatorios/exercito_lula_report_en.pdf) · [Rapport en français](relatorios/exercito_lula_rapport_fr.pdf)
 
 **Estructura:** `exercito_lula_dados_textuais_completos.csv` — codificación integral tabular · `snapshots/20261029T021046Z/` — base completa del canal (`dados/mensagens.jsonl`, 1.382 registros), 232 medios originales (`midias/originais/`), 114 miniaturas y auditoría de procedencia · `relatorios/` — informe en 4 idiomas (PDF).
 
